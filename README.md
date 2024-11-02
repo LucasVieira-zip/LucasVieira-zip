@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-origi
 
 
 ## Atualmente:
-- 🤯 Cursando engenharia dacomputação (4/10)
+- 🤯 Cursando Engenharia da Computação (4/10)
 - 👾 Entusiasta no Godot
 - 🤖 Estudando FrontEnd
 - ⚙ Desenvolvendo projetos de eletrônica
